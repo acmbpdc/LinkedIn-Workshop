@@ -1,6 +1,6 @@
 
 
-# LinkedIn Essentials Workshop for College Students
+# LinkedIn Workshop
 
 
 
@@ -14,15 +14,22 @@
 
 ---
 
+<div style="text-align: center">
+   <img src="assets/qr.png" width="200vw">
+</div>
+
+---
+
+
 ## Introduction to LinkedIn
 
 ### **What is LinkedIn?**
 - LinkedIn is the world’s largest professional networking platform with over 700 million users.
 - It's essential for students to start building their professional presence online.
-- Key benefits:
-  - Networking with professionals.
-  - Finding internships and job opportunities.
-  - Learning from industry leaders.
+- **Key benefits:**
+      - Networking with professionals.
+      - Finding internships and job opportunities.
+      - Learning from industry leaders.
 
 ---
 
@@ -81,15 +88,15 @@
 
 ### 8. **List Your Relevant Skills**
    - Add and regularly update your skills.
-   -Focus on relevant skills to your career goals.
-   -Spring clean your skills list periodically.
+   - Focus on relevant skills to your career goals.
+   - Spring clean your skills list periodically.
 
 ### 9. **Spread the Endorsement Love**
    - Endorse others to get endorsed.
    - Reach out to connections for endorsements.
    - Focus on key skills relevant to your career.
 
-### 10. **Manage Your Endorsements Proactively**
+### 10. **Manage Endorsements Proactively**
    - Edit your endorsements to reflect your core skills.
    - Hide endorsements that aren’t relevant.
 
@@ -121,8 +128,8 @@
    - Express your opinion and establish thought-leadership.
    - Well-expressed comments can raise your profile.
 
-### 16. **Follow Relevant Influencers in Your Industry**
-   - Keep your feed interesting and share-worthy by following industry leaders.
+### 16. **Follow Relevant Influencers**
+   - Keep your feed interesting and share-worthy by following industry leaders from your industry.
 
 ### 17. **Turn on Creator Mode**
    - Expand your reach and influence by creating content.
@@ -164,7 +171,9 @@
        
        Hi [Recruiter’s Name],
 
-       I wanted to follow up on my previous message regarding opportunities at [Company Name]. I am very interested in learning more about how I can contribute to your team and would appreciate any advice you could provide.
+       I wanted to follow up on my previous message regarding opportunities at [Company Name]. 
+       
+       I am very interested in learning more about how I can contribute to your team and would appreciate any advice you could provide.
 
        Looking forward to your response.
 
@@ -196,13 +205,15 @@
 
 **More resources to boost your LinkedIn Profile:**
 
-- https://members.linkedin.com/content/dam/me/members/en-us/pdf/li_studenten_Playbook_eng.pdf
+- [LinkedIn for students: The Playbook for Getting Started](https://members.linkedin.com/content/dam/me/members/en-us/pdf/li_studenten_Playbook_eng.pdf)
 
-- https://careers.linkedin.com/content/dam/me/careers/StudentCareers/about/LI-Students-Guide-To-LinkedIn.pdf
+- [The Student’s Guide to LinkedIn](https://careers.linkedin.com/content/dam/me/careers/StudentCareers/about/LI-Students-Guide-To-LinkedIn.pdf)
 
-- https://www.hsph.harvard.edu/wp-content/uploads/sites/36/2017/08/Published-Linkedin-Guide-SW-5-2-17.pdf
+- [Linkedin for Networking, Career Building & Job Search](https://www.hsph.harvard.edu/wp-content/uploads/sites/36/2017/08/Published-Linkedin-Guide-SW-5-2-17.pdf)
 
-- https://hansoncollegeon.com/wp-content/uploads/Intro-To-LinkedIn-Ppt.pdf
+- [An Intro to LinkedIn: Presented by Hanson College of Business Health and Technology](https://hansoncollegeon.com/wp-content/uploads/Intro-To-LinkedIn-Ppt.pdf)
+
+- [Get Your Internship At Microsoft: A 14 day Guide from Zero To Hero](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 ---
 
